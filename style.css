@@ -112,7 +112,7 @@ h2 {
 }
 
 .img-title {
-  box-shadow: 4px 4px 6px rgba(49, 49, 49, 0.349);
+  box-shadow: 4px 4px 6px rgba(49, 49, 49, 0.658);
   margin-bottom: 2.5em;
   max-width: 85%;
 }
@@ -169,6 +169,7 @@ h2 {
   padding: 10px 20px;
   margin: 0 1.5em 1.5em 1.5em; 
   border-radius: 50%;
+  box-shadow: 4px 4px 6px rgba(49, 49, 49, 0.658);
 }
 
 .checked {
@@ -182,6 +183,7 @@ h2 {
 .img-roteiro {
   width: 70%;
   margin: 1.5em 0;
+  box-shadow: 4px 4px 6px rgba(49, 49, 49, 0.658);
 }
 
 .roteiro {
@@ -224,7 +226,7 @@ h2 {
 .img-w-100 {
   margin: 1.5em 0 0 0;
   max-width: 40%;
-  border: 2px solid #ffffff;
+  box-shadow: 4px 4px 6px rgba(49, 49, 49, 0.658);
 }
 
 ol {
