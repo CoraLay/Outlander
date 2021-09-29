@@ -248,6 +248,24 @@ figcaption span {
   text-align: left;
 }
 
+.btn-div {
+  margin: 2em;
+}
+
+.btn-start {
+  text-decoration: none;
+  color: black;
+  background-color: rgb(231, 214, 156);
+  padding: 0.3em 2em;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn-start:hover {
+  background-color: #b4850e;
+  transition: background-color 0.5s ease;
+}
+
 /* Rodapé */
 
 footer {
